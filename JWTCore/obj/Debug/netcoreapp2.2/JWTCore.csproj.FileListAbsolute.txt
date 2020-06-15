@@ -1,0 +1,14 @@
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\bin\Debug\netcoreapp2.2\JWTCore.deps.json
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\bin\Debug\netcoreapp2.2\JWTCore.runtimeconfig.json
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\bin\Debug\netcoreapp2.2\JWTCore.runtimeconfig.dev.json
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\bin\Debug\netcoreapp2.2\JWTCore.dll
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.csprojAssemblyReference.cache
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.RazorAssemblyInfo.cache
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.RazorAssemblyInfo.cs
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.AssemblyInfoInputs.cache
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.AssemblyInfo.cs
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.RazorTargetAssemblyInfo.cache
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\bin\Debug\netcoreapp2.2\JWTCore.pdb
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.dll
+C:\Prathamesh\Sample Codes\JWTCore\JWTCore\obj\Debug\netcoreapp2.2\JWTCore.pdb
